@@ -1,1 +1,1 @@
-worker: python genSt.py
+worker: python genStr.py
